@@ -1,0 +1,303 @@
+/* <!-- This script created by : munaf aqeel mahdi | iraq-babil --> */
+@charset "utf-8";
+@font-face {
+  font-family: 'Ubuntu-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Ubuntu-Regular.eot);
+  src: url(../fonts/Ubuntu-Regular.eot?#iefix) format('embedded-opentype'),
+       url(../fonts/Ubuntu-Regular.woff2) format('woff2'),
+       url(../fonts/Ubuntu-Regular.woff) format('woff'),
+       url(../fonts/Ubuntu-Regular.ttf) format('truetype');
+}
+
+body{
+	background: #fbfbfb;
+	margin: 0px;
+	font-family: 'Ubuntu-Regular';
+}
+.logo{
+    width: 70px;
+    height: 70px;
+    position: relative;
+    left: 20px;
+    top: 5px;
+}
+.main_section{
+    height: 430px;
+    background: url('../images/main_bg.jpg') no-repeat;
+    background-position: 0,0;
+    position: relative;
+    right: 0px;
+    left: 0px;
+}
+.nav_bar{
+    margin: 0px;
+    color: white;
+    background: linear-gradient(to top,rgba(69, 124, 155, 0.01),rgba(0, 0, 0, 0.58));
+}
+.nav_bar_menu{
+	font-family: 'Ubuntu-Regular';
+	font-size: 18px;
+	list-style: none;
+    display: inline-flex;
+}
+.nav_bar_menu a li{
+	cursor: pointer;
+	padding: 15px;
+    box-shadow: inset 0px 0px 0px #2196f3;
+    transition: all 0.5s;
+}
+.nav_bar_menu a li:hover{
+	box-shadow: inset 0px -5px 0px #2196f3;
+}
+.nav_bar_menu a{
+	color: white;
+}
+.nav_bar_menu a:hover{
+	color: white;
+}
+.nav_bar_menu a:visited{
+	color: white;
+}
+.main_content{
+	font-family: 'Ubuntu-Regular';
+	font-size: 18px;
+}
+.main_content p{
+    color: #ffffff;
+    padding: 15px;
+    font-size: 35px;
+    text-shadow: 0px 0px 15px #000;
+}
+.features_section{
+    margin: 0px;
+    padding: 15px;
+}
+.features_info{
+    display: inline-block;
+    padding: 15px;
+    border-radius: 4px;
+    width: 300px;
+    max-width: 300px;
+    min-width: 200px;
+    height: auto;
+    margin: 5px;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0px 0px 0px #bbb;
+    transition: box-shadow 0.2s;
+}
+.features_info:hover{
+	box-shadow: 0px 0px 8px #bbb;
+}
+.features_info p{
+	color: #a5a5a5;
+}
+.features_info h2{
+	color: gray;
+	font-family: 'Ubuntu-Regular'
+}
+.features_info p a{
+	color: #a5a5a5;
+}
+.features_info p a:hover{
+	color: black;
+}
+.upload_section{
+	  background: #fff;
+    padding: 150px 50px;
+}
+.upload_box{
+  border-radius: 3px;
+    background: #2196f3;
+    max-width: 800px;
+    margin: auto;
+    padding: 60px 15px;
+    margin-bottom: 0px;
+}
+.upload_btn{
+    background: #ffffff;
+    color: #2196f3;
+    padding: 5px 20px 5px 20px;
+    border: 3px solid #fff;
+    border-radius: 2px;
+    cursor: pointer;
+    box-shadow: 0px 0px 0px #ababab;
+    transition: background 0.5s;
+}
+.upload_btn:hover{
+	background: #2196f3;
+    color: #ffffff;
+}
+a{
+	text-decoration:none;
+	color: #FFFFFF;
+    cursor: pointer;
+}
+a:hover{
+	color: #c5c5c5;
+}
+.upload_feild{
+color: #2196f3;
+    background: white;
+    padding: 5px;
+    width: 500px;
+    min-width: 170px;
+    border-radius: 2px;
+    cursor: pointer;
+    border: 3px solid #ffffff;
+    transition: box-shadow 0.5s;
+}
+.upload_feild:hover{
+	color: white;
+	    box-shadow: inset 0px 50px 0px #2196f3;
+}
+.msg_error{
+  margin-top: 15px;
+  max-width: 800px;
+  padding: 15px;
+	background: rgba(244, 67, 54, 0.69);
+  color: white;
+  border-radius: 5px;
+}
+.msg_success{
+  margin-top: 15px;
+  max-width: 800px;
+  padding: 15px;
+  background: #4CAF50;
+  color: white;
+  border-radius: 5px;
+}
+.msg_success p a,.msg_error p a{
+  color: #999;
+  text-decoration: none;
+}
+.msg_success p a:hover,.msg_success p a:focus.msg_error p a:hover,.msg_error p a:focus{
+  color: #555;
+  text-decoration: none;
+}
+.p_box{
+    color: #607D8B;
+    background: white;
+    border-radius: 3px;
+    box-shadow: inset 0px 0px 10px #a0a0a0;
+    padding: 3px;
+}
+.footer{
+    padding: 15px;
+    background: #1e81d0;
+    color: white;
+    height: 25px;
+    }
+    .social_networks{
+    	display: inline-block;
+    }
+.social_networks .fb{
+	background: url('../images/social-icons/facebook.png');
+	width: 32px;
+	height: 32px;
+	background-position-y: 0px;
+	transition: all 0.5s;
+}
+.social_networks .fb:hover{
+	background-position-y: 32px;
+}
+.social_networks .fl{
+	background: url('../images/social-icons/flickr.png');
+	width: 32px;
+	height: 32px;
+	background-position-y: 0px;
+	transition: all 0.5s;
+}
+.social_networks .fl:hover{
+	background-position-y: 32px;
+}
+.social_networks .la{
+	background: url('../images/social-icons/lastfm.png');
+	width: 32px;
+	height: 32px;
+	background-position-y: 0px;
+	transition: all 0.5s;
+}
+.social_networks .la:hover{
+	background-position-y: 32px;
+}
+.social_networks .tw{
+	background: url('../images/social-icons/twitter.png');
+	width: 32px;
+	height: 32px;
+	background-position-y: 0px;
+	transition: all 0.5s;
+}
+.social_networks .tw:hover{
+	background-position-y: 32px;
+}
+.social_networks .vi{
+	background: url('../images/social-icons/vimeo.png');
+	width: 32px;
+	height: 32px;
+	background-position-y: 0px;
+	transition: all 0.5s;
+}
+.social_networks .vi:hover{
+	background-position-y: 32px;
+}
+.allowed_files{
+	display: inline-block;
+}
+.allowed_files p{
+    margin: 5px;
+    background: linear-gradient(to top,rgb(230, 230, 230),rgba(42, 124, 189, 0));
+    padding: 10px 60px 10px 60px;
+    border-radius: 3px;
+    color: #000000;
+    cursor: pointer;
+}
+.terms_box{
+    background: #1e81d0;
+    width: 800px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 4px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.29);
+    margin-bottom: 170px;
+    text-align: left;
+    color: #ffffff;
+    font-size: 19px;
+}
+.about_box{
+    background: #1e81d0;
+    width: 800px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 4px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.29);
+    margin-bottom: 90px;
+    text-align: left;
+    color: #ffffff;
+    font-size: 17px;
+}
+.why_us{
+	color: gray;
+}
+.why_us_con{
+	display: inline-block;
+	text-align: left;
+	padding: 15px;
+    margin: 15px;
+}
+.upload_btn_main{
+    background: #ffffff;
+    padding: 15px 25px 15px 25px;
+    border-radius: 2px;
+    border: 3px solid #ffffff;
+    transition: all 0.3s;
+    color: rgb(171, 171, 171);
+    transition: all 0.3s;
+}
+.upload_btn_main:hover{
+    background: rgba(255, 255, 255, 0.21);
+    border: 3px solid #ffffff;
+    color: white;
+}
+/* <!-- This script created by : munaf aqeel mahdi | iraq-babil --> */
