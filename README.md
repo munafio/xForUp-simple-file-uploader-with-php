@@ -22,7 +22,7 @@ xForUp is a simple file uploader  with php without need a user accounts .. more 
 <li> Direct links to download the files.</li>
 
 
-<h3>How to download file :</h3>
+<h3>How to download file when I upload files  :</h3>
 Just upload file via upload page and click upload and after that on finish uploading it , It will give you green box contain link ,If you want just download for one time click on link or if you want share it with friends or save it for another time to download ,Just right click on link and click copy and save it into a notepad :)
 
 <h3>Social links if you want more projects or to contact with me :</h3>
