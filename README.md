@@ -25,9 +25,7 @@ xForUp is a simple file uploader  with php without need a user accounts .. more 
 <h3>How to download file when I upload files  :</h3>
 Just upload file via upload page and click upload and after that on finish uploading it , It will give you green box contain link ,If you want just download for one time click on link or if you want share it with friends or save it for another time to download ,Just right click on link and click copy and save it into a notepad :)
 
-<h3>Contact me :</h3>
-<a href="http://www.instagram.com/munafio">Instagram</a><br />
-<a href="http://www.facebook.com/munafaqeelmahdi.official">Facebook : Official page</a><br />
-<a href="http://www.facebook.com/munaf.aqeel.m">Facebook :Personal page</a><br />
-<a href="http://www.github.com/munafaqeelmahdi">Github</a><br />
-<a href="http://www.twitter.com/munaf_aqeel_m">Twitter</a><br />
+##Contact me
+[Instagram](https://instagram.com/munafio) <br>
+[Facebook personal page](https://facebook.com/munafio) <br>
+[Twitter](https://twitter.com/munaf_aqeel_m) <br>
