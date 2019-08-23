@@ -9,7 +9,7 @@ xForUp is a simple file uploader  with php without need a user accounts .. more 
 
 <li> Upload files with more than 20 allowed files.</li>
 
-<li> Uploading present (%).</li>
+<li> Uploading percent (%).</li>
 
 <li> wonderful UI/UX design.</li>
 
