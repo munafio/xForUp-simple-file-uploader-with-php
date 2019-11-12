@@ -33,10 +33,9 @@
         XForUP is a simple and open source php script help you to Upload your files<br />
         in a simple way any where and any time .. created by : Munaf Aqeel Mahdi<br /><br /><br />
         If you want to contact me or want see my open source project :<br /><br />
-        <span class="fa fa-facebook-official"></span> <a href="http://www.facebook.com/munafaqeelmahdi.official">Official page</a><br />
-        <span class="fa fa-facebook-official"></span> <a href="http://www.facebook.com/munaf.aqeel.m">Personal page</a><br />
-        <span class="fa fa-github"></span> <a href="http://www.github.com/munafaqeelmahdi">Github</a><br />
-        <span class="fa fa-instagram"></span> <a href="http://www.instagram.com/munaf_ewd">Instagram</a><br />
+        <span class="fa fa-facebook-official"></span> <a href="http://www.facebook.com/munafio">Facebook</a><br />
+        <span class="fa fa-github"></span> <a href="http://www.github.com/munafio">Github</a><br />
+        <span class="fa fa-instagram"></span> <a href="http://www.instagram.com/munafio">Instagram</a><br />
         <span class="fa fa-twitter"></span> <a href="http://www.twitter.com/munaf_aqeel_m">Twitter</a><br />
         </div>
         
